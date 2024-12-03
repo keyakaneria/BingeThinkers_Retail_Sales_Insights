@@ -7,7 +7,7 @@ Binge Thinkers is a Python-based retail data analysis tool designed to process a
 **Requirements**
 
 
-To use this tool, you need Python 3.x installed on your system. The required Python libraries include pandas for data manipulation, matplotlib and seaborn for visualizations, tkinter for file selection dialogs, and os for file handling. Ensure these dependencies are installed before running the script.
+To use this tool, you need Python 3.x installed on your system. The required Python libraries include pandas for data manipulation, matplotlib and seaborn for for visualizations. Ensure these dependencies are installed before running the script.
 
 **Features**
 
