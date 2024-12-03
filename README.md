@@ -1,8 +1,10 @@
 **Binge Thinkers**
+
 **Overview**
+
 Binge Thinkers is a Python-based retail data analysis tool designed to process a CSV file containing sales and revenue data. The script extracts meaningful insights, such as seasonal sales patterns, top-performing products, and revenue trends, and visualizes them to help businesses make informed decisions.
 
-Requirements
+**Requirements**
 To use this tool, you need Python 3.x installed on your system. The required Python libraries include pandas for data manipulation, matplotlib and seaborn for visualizations, tkinter for file selection dialogs, and os for file handling. Ensure these dependencies are installed before running the script.
 
 Features
@@ -47,3 +49,4 @@ Adding support for regional sales analysis.
 Integrating machine learning models for sales forecasting.
 Automating PDF reporting of insights and visualizations for easier sharing and review.
 Author
+Binge Thinkers
