@@ -1,5 +1,16 @@
 **Binge Thinkers**
 
+**Group Members**
+
+Keya Kaneria
+
+Harshika Goyal
+
+Diya Joshi
+
+Krima Bhavsar
+
+
 **Overview**
 
 Binge Thinkers is a Python-based retail data analysis tool designed to process a CSV file containing sales and revenue data. The script extracts meaningful insights, such as seasonal sales patterns, top-performing products, and revenue trends, and visualizes them to help businesses make informed decisions.
