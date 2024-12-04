@@ -3,11 +3,8 @@
 **Group Members**
 
 Keya Kaneria
-
 Harshika Goyal
-
 Diya Joshi
-
 Krima Bhavsar
 
 
